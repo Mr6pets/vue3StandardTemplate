@@ -1,0 +1,2 @@
+# vue3StandardTemplate
+vue3模版文件，可以适用于后期各种网站前台和后台管理基本的结构
